@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **garaven/garaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software devolopment student looking for mastering *full-stack web development.* 📌
+<div align="center">
+  <h3>Hi there! 👋(❍ᴥ❍ʋ)</h3>
+  <p>I'm a software devolopment student looking for mastering <b>full-stack web development.</b> 📌</p>
+  
+</div>
