@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <h3>Hi there! 👋(❍ᴥ❍ʋ)</h3>
-  <p>I'm a software development student looking for mastering <em>full-stack web development.</em> 📌</p>
-  <a href="mailto:garaven.camilo@gmail.com">Contact me</a>
-</div>
+<h1>Hi there! 👋</h1>
+<p>I'm a software development student looking for mastering <em>full-stack web development.</em> 📌</p>
+<a href="mailto:garaven.camilo@gmail.com">Contact me</a>
