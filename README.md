@@ -13,7 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1>Hi there! 👋</h1>
-<p>I'm a software development student looking for mastering <em>full-stack web development.</em> 📌</p>
-<a href="mailto:garaven.camilo@gmail.com">Contact me</a>
+<ul>
+  <li>
+    <samp>
+      <a href="https://garaven.vercel.app">portfolio</a>
+    </samp>
+  </li>
+    <li>
+    <samp>
+      <a href="mailto:garaven.camilo@gmail.com">let's connect</a>
+    </samp>
+  </li>
+</ul>
