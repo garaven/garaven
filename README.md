@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <ul>
-  <li>
+<!--   <li>
     <samp>
       <a href="https://garaven.vercel.app">portfolio</a>
     </samp>
-  </li>
+  </li> -->
 <!--   <li>
     <samp>
       <a href="https://github.com/garaven/dotfiles">dotfiles</a>
