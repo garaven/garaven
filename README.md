@@ -19,11 +19,11 @@ Here are some ideas to get you started:
       <a href="https://garaven.vercel.app">portfolio</a>
     </samp>
   </li> -->
-<!--   <li>
+<li>
     <samp>
-      <a href="https://github.com/garaven/dotfiles">dotfiles</a>
+      <a href="https://github.com/garaven/nvim-config">nvim config</a>
     </samp>
-  </li> -->
+  </li>
   <li>
     <samp>
       <a href="mailto:garaven.camilo@gmail.com">let's connect</a>
