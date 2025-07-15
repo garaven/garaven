@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello there 👋🏻
+<p>Frontend developer, linux user and neovim enthusiast.</p>
+<p>Currently learning Backend.</p>
 <ul>
-<!--   <li>
-    <samp>
-      <a href="https://garaven.vercel.app">portfolio</a>
-    </samp>
-  </li> -->
-<li>
-    <samp>
-      <a href="https://github.com/garaven/nvim-config">nvim config</a>
-    </samp>
-  </li>
-  <li>
-    <samp>
-      <a href="mailto:garaven.camilo@gmail.com">let's connect</a>
-    </samp>
-  </li>
+    <li>
+        Home: <a href="https://garaven.vercel.app">https://garaven.vercel.app</a>
+    </li>
+    <li>
+        Linkedin: <a href="https://linkedin.com/in/garaven">linkedin/garaven</a>
+    </li>
+    <li>
+        Dotfiles: <a href="https://github.com/garaven/nvim-config">github/nvim-config</a>
+    </li>
+    <li>
+        Codeforces: <a href="https://codeforces.com/profile/garaven">codeforces/garaven</a>
+    </li>
 </ul>
