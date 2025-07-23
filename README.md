@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hello there 👋🏻
 <p>Frontend developer, linux user and neovim enthusiast.</p>
-<p>Currently learning Backend.</p>
+<p>⚡️ Currently learning Backend.</p>
 <ul>
     <li>
         Home: <a href="https://garaven.vercel.app">https://garaven.vercel.app</a>
