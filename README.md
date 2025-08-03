@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <li>
         Dotfiles: <a href="https://github.com/garaven/nvim-config">github/nvim-config</a>
     </li>
-    <li>
+<!--     <li>
         Codeforces: <a href="https://codeforces.com/profile/garaven">codeforces/garaven</a>
-    </li>
+    </li> -->
 </ul>
