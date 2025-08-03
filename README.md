@@ -20,9 +20,9 @@ Here are some ideas to get you started:
     <li>
         Home: <a href="https://garaven.vercel.app">https://garaven.vercel.app</a>
     </li>
-    <li>
+<!--     <li>
         Linkedin: <a href="https://linkedin.com/in/garaven">linkedin/garaven</a>
-    </li>
+    </li> -->
     <li>
         Dotfiles: <a href="https://github.com/garaven/nvim-config">github/nvim-config</a>
     </li>
